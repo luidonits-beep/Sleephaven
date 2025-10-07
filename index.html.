@@ -1,1 +1,10 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to Sleephaven</title>
+  </head>
+  <body>
+    <h1>Hello, Sleephaven!</h1>
+    <p>Your site is live.</p>
+  </body>
+</html>
